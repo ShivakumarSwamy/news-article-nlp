@@ -4,6 +4,14 @@
 
 This project takes a valid url article and provide sentiment analysis using Meaning Cloud (https://www.meaningcloud.com/)
 
+## Add API Key from Meaning Cloud
+
+- Please get a license key from https://www.meaningcloud.com/
+- Add a file `.env` in project root directory add API_KEY like below
+  ```
+  API_KEY=<license-key>
+  ```
+
 ## Run locally production mode
 
 1. Install [nodejs](https://nodejs.org/en/) if not present or use [Node Version Manager](https://github.com/nvm-sh/nvm)
