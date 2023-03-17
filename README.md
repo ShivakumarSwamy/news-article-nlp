@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project takes a valid url article and provide sentiment analysis using Meaning Cloud (https://www.meaningcloud.com/)
+This project takes a valid url article and provide sentiment analysis using [Meaning Cloud](https://www.meaningcloud.com/)
 
 ## Add API Key from Meaning Cloud
 
