@@ -7,7 +7,7 @@ This project takes a valid url article and provide sentiment analysis using Mean
 ## Add API Key from Meaning Cloud
 
 - Please get a license key from https://www.meaningcloud.com/
-- Add a file `.env` in project root directory add API_KEY like below
+- Add a file `.env` in project root directory and add API_KEY like below
   ```
   API_KEY=<license-key>
   ```
